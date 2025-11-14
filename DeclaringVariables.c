@@ -10,5 +10,8 @@ int main() {
     printf("Float: %f\n", float_variable);
     printf("Character: %c\n", char_variable);
 
+    printf("Added code hello world");
+
+
     return 0;
 }
